@@ -14,4 +14,4 @@ Usage:
  - gist.txt              - each line contain gist vector for each file in filenames.txt
  
 
-Note: More updates to come soon
+**_Note_**: More updates to come soon
