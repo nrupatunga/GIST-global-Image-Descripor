@@ -1,6 +1,6 @@
 # GIST-global-Image-Descripor Tool
 
-This is the tool to extract the GIST descriptor for Images. GIST is low dimensional representation for images. 
+This is the tool to extract the [GIST descriptor](http://people.csail.mit.edu/torralba/code/spatialenvelope/) for Images. GIST is low dimensional representation for images. 
 
 Gist 1.0 Beta
 ------------
