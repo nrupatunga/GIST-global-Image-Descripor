@@ -2,6 +2,12 @@
 
 This is the tool to extract the [GIST descriptor](http://people.csail.mit.edu/torralba/code/spatialenvelope/) for Images. GIST is low dimensional representation for images. 
 
+
+# GIST t-SNE Visualization 
+t-SNE Visualization of GIST neighbors|
+:-------------------------:|
+![](https://github.com/nrupatunga/GIST-global-Image-Descripor/blob/master/t-sne/gist-nn-large.png)
+
 Gist 1.0 Beta
 ------------
 Usage:
